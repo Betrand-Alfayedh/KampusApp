@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nama Aplikasi Anda</string>
+    <string name="logo_desc">Logo Politeknik Negeri Padang</string>
+    <string name="back_desc">Kembali</string>
+</resources>
